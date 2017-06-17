@@ -1,0 +1,11 @@
+{
+  "name": "chaca2",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "1.7.1",
+    "promise-mysql": "3.0.1"
+  }
+}
